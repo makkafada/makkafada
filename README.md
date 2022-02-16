@@ -7,9 +7,9 @@
 ## I'm a Husband, 🐶 & 🐱 -father and of course a tech 💙ing developer!
 
 - 🔭 Watch to see my journey
-- 🌱 I’m currently learning Angular
-- 👯 I’m always working on my dev skills. 
-- 🥅 2022 Goals: Learn Angular perfectly 
+- 🌱 I’m currently learning Angular + TS
+- 💻 C# and dotnet lover  
+- 🥅 2022 Goals: learn and build on Angular + TS | build more on WPF | contribute to Open-Source projects     
 - ⚡ Fun fact: I like anime-manga, animals, crypto and silence
 
 ---
