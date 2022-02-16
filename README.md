@@ -35,25 +35,25 @@
 
 
 
-[<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;padding-bottom:2px;" />][website]
-[<img align="left" alt="dotnet" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" style="padding-right:10px;padding-bottom:2px;" />][website]
-[<img align="left" alt="dotnet Core" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="padding-right:10px;padding-bottom:2px;" />][website]
-[<img align="left" alt="MSSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" style="padding-right:10px;padding-bottom:2px;" />][website]
-[<img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="padding-right:10px;padding-bottom:2px;" />][website]
+[<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-bottom:5px;" />][website]
+[<img align="left" alt="dotnet" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" style="padding-bottom:5px;" />][website]
+[<img align="left" alt="dotnet Core" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="padding-bottom:5px;" />][website]
+[<img align="left" alt="MSSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" style="padding-bottom:5px;" />][website]
+[<img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="padding-bottom:5px;" />][website]
 
-[<img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;padding-bottom:2px;" />][website]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;padding-bottom:2px;" />][website]
+[<img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-bottom:5px;" />][website]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-bottom:5px;" />][website]
 
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;padding-bottom:2px;" />][website]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;padding-bottom:2px;" />][website]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;padding-bottom:2px;" />][website]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-bottom:5px;" />][website]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-bottom:5px;" />][website]
+[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-bottom:5px;" />][website]
 
 
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;padding-bottom:2px;" />][website]
-[<img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;padding-bottom:2px;" />][website]
-[<img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;padding-bottom:2px;" />][website]
-[<img align="left" alt="Azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="padding-right:10px;padding-bottom:2px;" />][website]
-[<img align="left" alt="Wordpress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" style="padding-right:10px;padding-bottom:2px;" />][website]
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-bottom:5px;" />][website]
+[<img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-bottom:5px;" />][website]
+[<img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-bottom:5px;" />][website]
+[<img align="left" alt="Azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="padding-bottom:5px;" />][website]
+[<img align="left" alt="Wordpress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" style="padding-bottom:5px;" />][website]
 
 <br />
 <br />
