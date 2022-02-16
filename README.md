@@ -12,6 +12,8 @@
 - 🥅 2022 Goals: Learn Angular perfectly 
 - ⚡ Fun fact: I like anime-manga, animals, crypto and silence
 
+---
+
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://makkafada.com#gh-light-mode-only)
@@ -25,6 +27,9 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/makkafada#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/makkafada#gh-dark-mode-only)
+
+
+---
 
 ### Languages and Tools:
 
@@ -60,7 +65,7 @@
 
 
 </details> -->
-
+---
 <details>
   <summary>:zap: GitHub Stats</summary>
 
