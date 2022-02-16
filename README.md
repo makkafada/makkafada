@@ -35,25 +35,25 @@
 
 
 
-[<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  />][https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/]
-[<img align="left" alt="dotnet" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"  />][https://docs.microsoft.com/de-de/dotnet/api/?view=netframework-4.8&preserve-view=true]
-[<img align="left" alt="dotnet Core" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"  />][https://docs.microsoft.com/de-de/dotnet/?WT.mc_id=dotnet-35129-website]
-[<img align="left" alt="MSSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"  />][https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15]
-[<img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"  />][https://angular.io/]
+[<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  />][csharp]
+[<img align="left" alt="dotnet" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"  />][dotnet]
+[<img align="left" alt="dotnet Core" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"  />][dotnetcore]
+[<img align="left" alt="MSSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"  />][mssql]
+[<img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"  />][angular]
 
-[<img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  />][https://www.typescriptlang.org/]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  />][https://developer.mozilla.org/en-US/docs/Web/JavaScript]
+[<img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  />][typescript]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  />][javascript]
 
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  />][https://wiki.selfhtml.org/wiki/HTML/Tutorials/HTML5]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  />][https://developer.mozilla.org/en-US/docs/Web/CSS]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  />][https://sass-lang.com/]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  />][html5]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  />][css]
+[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  />][sass]
 
 
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  />][https://git-scm.com/]
-[<img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  />][https://code.visualstudio.com/]
-[<img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"  />][https://visualstudio.microsoft.com/vs/]
-[<img align="left" alt="Azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"  />][https://docs.microsoft.com/en-us/azure/?product=popular]
-[<img align="left" alt="Wordpress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"  />][https://developer.wordpress.org/]
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  />][git]
+[<img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  />][vscode]
+[<img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"  />][vs]
+[<img align="left" alt="Azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"  />][azure]
+[<img align="left" alt="Wordpress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"  />][wordpress]
 
 <br />
 <br />
@@ -71,6 +71,23 @@
   <img align="left"  alt="makkafada's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=makkafada&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
+
+[csharp]:https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/
+[dotnet]:https://docs.microsoft.com/de-de/dotnet/api/?view=netframework-4.8&preserve-view=true
+[dotnetcore]:https://docs.microsoft.com/de-de/dotnet/?WT.mc_id=dotnet-35129-website
+[mssql]:https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15
+[angular]:https://angular.io
+[typescript]:https://www.typescriptlang.org
+[javascript]:https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[html5]:https://wiki.selfhtml.org/wiki/HTML/Tutorials/HTML5
+[css3]:https://developer.mozilla.org/en-US/docs/Web/CSS
+[sass]:https://sass-lang.com
+[git]:https://git-scm.com
+[vscode]:https://code.visualstudio.com
+[vs]:https://visualstudio.microsoft.com/vs
+[azure]:https://docs.microsoft.com/en-us/azure/?product=popular
+[wordpress]:https://developer.wordpress.org
+
 
 [website]: https://makkafada.com
 [twitter]: https://twitter.com/makkafada
