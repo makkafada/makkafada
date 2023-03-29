@@ -1,7 +1,6 @@
 # Hi there, I'm şakir 👋 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/makkafada?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmakkafada&screen_name=makkafada)
-[!LinkedIn_Follow](https://www.linkedin.com/in/%C5%9Fakirolgun/)
 
 
 ## I'm a Husband, 🐶 & 🐱 -father, soon of 👦🏻👦🏻 and of course a tech 💙ing developer!
