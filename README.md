@@ -6,7 +6,7 @@
 ## I'm a Husband, 🐶 & 🐱 -father, soon of 👦🏻👦🏻 and of course a tech 💙ing developer!
 
 - 🔭 Watch to see my journey
-- 🌱 I’m currently learning Angular + TS (started december 2021)
+- 🌱 I’m currently focusing on software architecture
 - 💻 C# and dotnet lover  
 - 🥅 2023 Goals: extend my developing skills in c# .net | learn and develop applications in MAUI and Blazor | contribute to OS projects     
 - ⚡ Fun fact: I like anime-manga, animals, crypto and silence
