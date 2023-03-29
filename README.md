@@ -1,6 +1,5 @@
 # Hi there, I'm şakir 👋 
 
-[![Website](https://img.shields.io/website?label=makkafada.com&style=for-the-badge&url=https%3A%2F%2Fmakkafada.com)](https://makkafada.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/makkafada?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmakkafada&screen_name=makkafada)
 
 
