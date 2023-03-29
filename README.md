@@ -9,7 +9,7 @@
 - 🔭 Watch to see my journey
 - 🌱 I’m currently learning Angular + TS (started december 2021)
 - 💻 C# and dotnet lover  
-- 🥅 2022 Goals: learn and build complex apps with Angular | build enterprise solutions on WPF | contribute to OS projects     
+- 🥅 2023 Goals: extend my developing skills in c# .net | learn and develop applications in MAUI and Blazor | contribute to OS projects     
 - ⚡ Fun fact: I like anime-manga, animals, crypto and silence
 
 ---
