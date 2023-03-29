@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/makkafada?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmakkafada&screen_name=makkafada)
 
 
-## I'm a Husband, 🐶 & 🐱 -father and of course a tech 💙ing developer!
+## I'm a Husband, 🐶 & 🐱 -father, soon of 👦🏻👦🏻 and of course a tech 💙ing developer!
 
 - 🔭 Watch to see my journey
 - 🌱 I’m currently learning Angular + TS (started december 2021)
