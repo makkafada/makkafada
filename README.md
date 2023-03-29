@@ -15,9 +15,6 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://makkafada.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://makkafada.com#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/makkafada#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/makkafada#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -27,11 +24,9 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/makkafada#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/makkafada#gh-dark-mode-only)
 
-
 ---
 
 ### Languages and Tools:
-
 
 
 [<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  />][csharp]
