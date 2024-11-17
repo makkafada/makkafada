@@ -1,15 +1,5 @@
-# Hi there, I'm şakir 👋 
-
+# Hi
 [![Twitter Follow](https://img.shields.io/twitter/follow/makkafada?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmakkafada&screen_name=makkafada)
-
-
-## I'm a Husband, 🐶 & 🐱 -father, soon of 👦🏻👦🏻 and of course a tech 💙ing developer!
-
-- 🔭 Watch to see my journey
-- 🌱 I’m currently focusing on software architecture
-- 💻 C# and dotnet lover  
-- 🥅 2023 Goals: extend my developing skills in c# .net | learn and develop applications in MAUI and Blazor | contribute to OS projects     
-- ⚡ Fun fact: I like anime-manga, animals, bitcoin and silence
 
 ---
 
